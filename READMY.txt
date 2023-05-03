@@ -1,0 +1,5 @@
+This is a test file 
+
+First commit hear
+ - add new files to repository
+ - and something else
